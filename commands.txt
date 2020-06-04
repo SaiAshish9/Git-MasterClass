@@ -11,3 +11,18 @@
 6. git checkout -- <>
 
 7. git reset Head <> #staging area to working directory
+
+8. git help log
+
+9. git log --oneline --graph --decorate --all
+# displays commit id along with message
+
+10.git config --global alias.hist "log --oneline --graph --decorate --all"
+# user defined command
+git hist
+git hist -- <>
+
+11.git config --global --list
+
+
+
