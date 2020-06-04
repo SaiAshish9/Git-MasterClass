@@ -17,14 +17,20 @@
 9. git log --oneline --graph --decorate --all
 # displays commit id along with message
 
-10.git config --global alias.hist "log --oneline --graph --decorate --all"
+10.  git config --global alias.hist "log --oneline --graph --decorate --all"
 # user defined command
 git hist
 git hist -- <>
 
-11.git config --global --list
+11.  git config --global --list
 
-12 . git mv  <> <>
+12.  git mv  <> <>
 
+13.  git rm <>
 
+14 . git add -A
+# touch <>
+# mv <> <>
+# git add -A
 
+15. git add -u
