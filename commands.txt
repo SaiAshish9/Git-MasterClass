@@ -1,0 +1,13 @@
+1. git status
+
+2. git log
+
+3. git show 
+
+4. git commit -am <>
+
+5. git ls-files #shows tracking files
+
+6. git checkout -- <>
+
+7. git reset Head <> #staging area to working directory
