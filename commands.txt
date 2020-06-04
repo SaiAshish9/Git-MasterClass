@@ -24,5 +24,7 @@ git hist -- <>
 
 11.git config --global --list
 
+12 . git mv  <> <>
+
 
 
