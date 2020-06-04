@@ -34,3 +34,11 @@ git hist -- <>
 # git add -A
 
 15. git add -u
+
+16. git diff <> HEAD 
+
+17.git diff
+
+18.git branch
+
+19.git checkout -b <>
