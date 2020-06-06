@@ -67,7 +67,12 @@ git commit -m "k"
 29.git tag -a <> -m ""
 #annoations
 
-30.
+30.git stash
+
+31.git stash list
+
+32.git stash pop
+
 
 
 
