@@ -53,4 +53,21 @@ git hist -- <>
 
 24.git branch -d <> #delete branch
 
+25. CONFLICT MERGE
+git mergetool
+!qa
+git commit -m "k"
+
+26.git tag <>
+
+27. git tag --list
+
+28. git tag -d <>
+
+29.git tag -a <> -m ""
+#annoations
+
+30.
+
+
 
