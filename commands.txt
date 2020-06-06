@@ -73,6 +73,20 @@ git commit -m "k"
 
 32.git stash pop
 
+33. git reset <id> {--soft|--hard|--mixed{default}}
+#used to change HEAD id
+#hard ->staging area changes wiped out
+#soft -> staging area persists
+#mixed -> HEAD pointing to branch changes are placed in staging area
+
+34.git reflog 
+#shows all actions
+#git reset --hard <id>
+#moves HEAD to that id
+
+35.git 
+
+
 
 
 
