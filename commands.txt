@@ -37,8 +37,20 @@ git hist -- <>
 
 16. git diff <> HEAD 
 
-17.git diff
+17.git diff #git help diff
 
 18.git branch
 
 19.git checkout -b <>
+
+20.git diff <branch_name> master
+
+21. git checkout master 
+
+22. git checkout <>
+
+23.git merge <> #fast forward
+
+24.git branch -d <> #delete branch
+
+
