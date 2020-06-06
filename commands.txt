@@ -84,7 +84,10 @@ git commit -m "k"
 #git reset --hard <id>
 #moves HEAD to that id
 
-35.git 
+35.git remote -v 
+#shows existing repository
+
+
 
 
 
