@@ -93,7 +93,7 @@ git commit -m "k"
 
 38. git remote rm <>
 
-39. git remote set-url <>
+39. git remote set-url origin <>
 
 40. git clone <> <>
 
