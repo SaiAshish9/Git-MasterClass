@@ -87,6 +87,27 @@ git commit -m "k"
 35.git remote -v 
 #shows existing repository
 
+36. ssh-keygen -t rsa -b 2048 -C "#######@gmail.com" # cd ~/.ssh 
+
+37. ssh -T git@github.com
+
+38. git remote rm <>
+
+39. git remote set-url <>
+
+40. git clone <> <>
+
+41. git version
+
+42. git config --global push.default simple
+
+43. git fetch
+# it lets local git to retrieve latest metadata info 
+
+
+44.git pull
+
+
 
 
 
