@@ -104,9 +104,9 @@ git commit -m "k"
 43. git fetch
 # it lets local git to retrieve latest metadata info 
 
-
 44.git pull
 
+45. 
 
 
 
