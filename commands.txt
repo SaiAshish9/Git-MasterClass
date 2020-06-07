@@ -108,6 +108,39 @@ git commit -m "k"
 
 45. git show <id>
 
+46. git push -u origin <>
+
+#markdowns
+## ,> ,__<>__  ,:
+
+47. git merge <>
+
+48. git branch -a 
+
+49. git branch -d <>
+
+50. git fetch -p
+
+51. git pull --all
+(updates applied to corresponding branches)
+
+52. git push origin :<branch_name> # delete branch
+
+53. git pull --rebase
+
+# places local commit higher than github commits made before rebase
+
+54 . git config --global diff.tool p4merge
+     git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+     git config --global diff.tool.prompt false
+     repeat same for merge
+
+55. git mergetool
+    git commit -am "resolved conflict"
+
+
+
+
 
 
 
