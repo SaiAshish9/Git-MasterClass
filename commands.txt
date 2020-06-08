@@ -138,12 +138,71 @@ git commit -m "k"
 55. git mergetool
     git commit -am "resolved conflict"
 
+56. rm *.orig
 
+57. git tag
 
+58. git tag <> <branch_name>
 
+59. git tag -a <name> -m "<>" <id>
 
+60. git push origin <tag_name>
 
+61. git push --tags
 
+62. git push origin <branch_name>
 
+63. git tag -d <tag_name>
 
+64. git push origin :<tag_name>
 
+65. git tag -f <tag_name> <id>
+
+66. git push --force origin <branch_name>
+
+67. git remote add upstream <ssh> 
+
+68. git pull upstream master
+
+69. git branch -d
+
+70. git fetch -p
+
+71. git fetch --upstream
+
+72. git fetch --all
+
+73. git checkout -b <branch_name> <origin/<branch_name>>
+#when there are same branch in multiple origins
+
+74. git format-patch <branch_name> -o patches
+
+75. git format-patch -1 <branch_id> -o patches
+
+76. git am <path>
+
+77. git format-patch master --stdout < <file>
+
+78. git format-patch -2 <commit_id> --stdout <name>
+
+79. git commit --allow-empty
+
+80 . git cherry-pick <id>
+
+81. git cherry-pick <id> -n
+
+82. git rebase -i <>
+
+84. git archive < HEAD|-l | --format=zip --output <filename> HEAD>
+
+85. git revert <id>
+
+86. git revert <id> -n
+
+87. git clean
+
+88. git clean -n #list
+
+89 .git clean -d #folders
+
+90. git clean -d -f #files and folders
