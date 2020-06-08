@@ -1,0 +1,40 @@
+From 274090b9870910fc57bb984f6bb0ef6036f291c5 Mon Sep 17 00:00:00 2001
+From: SaiAshish9 <saiashish3760@gmail.com>
+Date: Mon, 8 Jun 2020 22:21:22 +0530
+Subject: [PATCH 1/2] rm hello
+
+---
+ ab.py | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/ab.py b/ab.py
+index 16d4e83..a2b5fcd 100644
+--- a/ab.py
++++ b/ab.py
+@@ -1,2 +1 @@
+-print "hello"
+ print "world"
+\ No newline at end of file
+-- 
+2.19.0.windows.1
+
+
+From 81b54401621b0ce0cd8c0d6573280004e4aedc73 Mon Sep 17 00:00:00 2001
+From: SaiAshish9 <saiashish3760@gmail.com>
+Date: Mon, 8 Jun 2020 22:21:31 +0530
+Subject: [PATCH 2/2] rm world
+
+---
+ ab.py | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/ab.py b/ab.py
+index a2b5fcd..e69de29 100644
+--- a/ab.py
++++ b/ab.py
+@@ -1 +0,0 @@
+-print "world"
+\ No newline at end of file
+-- 
+2.19.0.windows.1
+
